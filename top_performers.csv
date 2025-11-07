@@ -1,0 +1,21 @@
+EmployeeNumber,Age,Department,JobRole,Composite_Score,Composite_Rank,Performance_Score,Efficiency_Score
+327,43,Sales,Manager,81.17,1,90.0,63.33
+1550,40,Human Resources,Manager,75.46,2,90.0,36.67
+76,31,Research & Development,Laboratory Technician,74.88,3,93.33,43.33
+714,27,Sales,Sales Executive,74.65,4,93.33,36.67
+581,31,Research & Development,Manufacturing Director,74.13,5,80.0,66.67
+1693,26,Research & Development,Laboratory Technician,74.08,6,90.0,56.67
+786,34,Sales,Sales Executive,73.91,7,90.0,50.0
+605,42,Research & Development,Manufacturing Director,73.35,8,78.33,63.33
+2017,37,Research & Development,Research Director,72.86,9,86.67,50.0
+942,35,Research & Development,Healthcare Representative,72.78,10,93.33,33.33
+1546,45,Research & Development,Research Scientist,72.69,11,93.33,33.33
+1736,31,Research & Development,Manufacturing Director,72.67,12,93.33,33.33
+395,28,Research & Development,Research Scientist,72.39,13,93.33,30.0
+653,31,Sales,Sales Executive,72.16,14,90.0,50.0
+1823,34,Sales,Sales Executive,71.58,15,85.0,60.0
+1092,40,Research & Development,Healthcare Representative,71.53,16,83.33,73.33
+1821,46,Research & Development,Healthcare Representative,71.5,17,83.33,36.67
+1423,58,Research & Development,Research Director,71.49,18,75.0,46.67
+1225,44,Research & Development,Research Scientist,71.28,19,86.67,56.67
+707,25,Sales,Sales Executive,70.96,20,86.67,33.33
