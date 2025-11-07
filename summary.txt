@@ -1,0 +1,23 @@
+Monthly Performance Report Summary
+===============================
+
+Total records analyzed: 1470
+Departments included: Sales, Research & Development, Human Resources
+
+Key KPIs created: Performance_Score, Efficiency_Score, Mentor_Feedback_Score, Engagement_Score, Composite_Score
+
+Files generated:
+- monthly_performance_report.csv
+- top_performers.csv
+- hr_full_with_kpis.csv
+- summary.txt
+- fig10_box_overtime.png
+- fig1_top10_bar.png
+- fig2_hist_composite.png
+- fig3_box_income_dept.png
+- fig4_scatter_years_comp.png
+- fig5_corr_heatmap.png
+- fig6_avg_by_dept.png
+- fig7_pie_attrition.png
+- fig8_line_age_groups.png
+- fig9_toproles_by_score.png
